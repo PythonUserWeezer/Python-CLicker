@@ -3,3 +3,4 @@ This Is a python clicker that has multiple different ways to click, using keys o
 
 
 # Please do not bug me about any issues this is a single application if you want to bug me about anything, bug me about suggestions, my discord username is stickyrespawnthegoat if you want to contact me, if you dont have discord then fuck off.
+## i think you also need pynput installed :D
